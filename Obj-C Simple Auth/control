@@ -1,0 +1,9 @@
+Package: com.flaco510.objcauth
+Name: Ipa Authentication
+Author: Flaco
+Description: Authentication Tweak
+Depends: mobilesubstrate
+Maintainer: Flaco
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
