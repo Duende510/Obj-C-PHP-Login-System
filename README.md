@@ -32,13 +32,6 @@ $dbname = "";
 * Compile project using theos
 * Inject into app with sideloadly
 
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
 ## Version History
 
 * 0.1
