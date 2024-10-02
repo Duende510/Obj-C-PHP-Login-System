@@ -24,7 +24,7 @@ $dbPassword = "";
 $dbname = "";
 ```
 * Copy and paste users.sql and banned_devices.sql into your database to create the tables
-* Cange both links to the web server in the Tweak.xm to your own
+* Change both links to the web server in the Tweak.xm to your own
 ```
 [request setURL:[NSURL URLWithString:@"https://webserver.com/login.php"]];
 [request setURL:[NSURL URLWithString:@"https://webserver.com/register.php"]];
